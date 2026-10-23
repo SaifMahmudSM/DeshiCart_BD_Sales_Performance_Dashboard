@@ -54,7 +54,7 @@ Key activities include:
 
 The following calculated fields are created for business analysis:
 
-   # Field               Calculation
+   #### Field               Calculation
 
     Revenue              Quantity × UnitPrice × (1 − Discount)
 
