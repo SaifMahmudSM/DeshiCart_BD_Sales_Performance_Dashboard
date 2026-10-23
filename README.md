@@ -16,16 +16,10 @@ DeshiCart BD has experienced revenue growth, but its profitability remains relat
 
 The dashboard is designed to answer key business questions:
 
-How does sales performance change month by month?
-
-Which product categories and products generate the most revenue and profit?
-
-Which products, subcategories, or trading conditions result in negative profit?
-
-Which customer segments contribute most to revenue and profitability?
-
-Which regions are performing well or underperforming?
-
-How effective are discounts, and at what discount levels does profitability deteriorate?
-
-What actions should management prioritize to improve business performance?
+* How does sales performance change month by month?
+* Which product categories and products generate the most revenue and profit?
+* Which products, subcategories, or trading conditions result in negative profit?
+* Which customer segments contribute most to revenue and profitability?
+* Which regions are performing well or underperforming?
+* How effective are discounts, and at what discount levels does profitability deteriorate?
+* What actions should management prioritize to improve business performance?
