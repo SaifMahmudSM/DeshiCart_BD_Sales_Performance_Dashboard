@@ -81,12 +81,19 @@ The dashboard includes the eight KPIs specified in the official competition rule
 
 ### KPI                      Definition
  Total Sales                   Sum of Revenue
+ 
  Total Profit                  Sum of Profit
+ 
  Profit Margin %               Total Profit ÷ Total Sales
+ 
  Total Orders                  Number of rows in Clean_Data
+ 
  Total Quantity                Sum of Quantity
+ 
  Average Order Value           Total Sales ÷ Total Orders
+ 
  Average Discount              Average of the Discount column
+ 
  Total Customers               Distinct count of CustomerID
 
 *The dashboard's KPI calculations follow the official definitions to maintain consistency with the supporting analysis.*
