@@ -117,7 +117,7 @@ The final analysis will document 5–8 numerical, actionable business insights s
    ![excel dashboard](Images/Excel_Dashboard.png)
    
    ## Power BI (Optional)
-   ![Power BI](Images/Power_BI_Dashboard.png)
+   ![Power BI](Images/Power _BI_Dashboard.png)
 
 # Repository Structure
 
