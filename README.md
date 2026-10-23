@@ -54,7 +54,7 @@ Key activities include:
 
 The following calculated fields are created for business analysis:
 
-   #### Field               Calculation
+   #### Field              Calculation
 
     Revenue              Quantity × UnitPrice × (1 − Discount)
 
@@ -79,7 +79,7 @@ The analysis covers six major areas:
 
 The dashboard includes the eight KPIs specified in the official competition rulebook.
 
-## KPI                      Definition
+### KPI                      Definition
  Total Sales               Sum of Revenue
  Total Profit              Sum of Profit
  Profit Margin %           Total Profit ÷ Total Sales
