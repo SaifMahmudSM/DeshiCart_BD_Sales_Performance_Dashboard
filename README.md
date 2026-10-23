@@ -132,12 +132,13 @@ DeshiCart-BD-Sales-Dashboard/
 #### → README.md
    
 ### Data
-→ Dashboard_Competition_Saif_Mahmud_Submission_File.xlsx
-→ Dashboard_Competition_Saif_Mahmud.xlsx 
+          → Dashboard_Competition_Saif_Mahmud_Submission_File.xlsx
+          → Dashboard_Competition_Saif_Mahmud.xlsx 
 ### Images 
            → Excel_Dashboard.png 
            → Power_BI_Dashboard.png
-### Task → Project_NoteBook.pdf
+### Task 
+           → Project_NoteBook.pdf
 
 
 This is a suggested repository structure. Adjust the folders and filenames to match the files actually included. Share the rulebook, dataset, and completed workbook only where you have permission to do so.
