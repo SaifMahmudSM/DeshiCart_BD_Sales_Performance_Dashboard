@@ -54,7 +54,7 @@ Key activities include:
 
 The following calculated fields are created for business analysis:
 
-   #### Field              Calculation
+#### Field               Calculation
 
     Revenue              Quantity × UnitPrice × (1 − Discount)
 
@@ -79,7 +79,7 @@ The analysis covers six major areas:
 
 The dashboard includes the eight KPIs specified in the official competition rulebook.
 
-### KPI                      Definition
+### KPI                         Definition
  Total Sales                   Sum of Revenue
  
  Total Profit                  Sum of Profit
@@ -134,8 +134,8 @@ DeshiCart-BD-Sales-Dashboard/
 
 
    ├── Data/
-   │   └── Dashboard_Competition_Saif_Mahmud_Submission_File.xlsx    
-   │   └── Dashboard_Competition_Saif_Mahmud.xlsx
+        └── Dashboard_Competition_Saif_Mahmud_Submission_File.xlsx
+        └── Dashboard_Competition_Saif_Mahmud.xlsx
 
    ├── Images/
    │   ├── Excel_Dashboard.png
