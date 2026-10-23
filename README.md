@@ -50,4 +50,17 @@ Key activities include:
  * Converting dates and numeric fields into valid Excel data types.
  * Preserving repairable records rather than deleting valid transactions.
 
- 
+# 2. Calculated Fields
+
+The following calculated fields are created for business analysis:
+
+   # Field              # Calculation
+
+    Revenue              Quantity × UnitPrice × (1 − Discount)
+
+     Cost                Quantity × UnitCost
+
+     Profit              Revenue − Cost
+     
+These calculations provide the foundation for measuring sales performance and profitability.
+
