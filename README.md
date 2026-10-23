@@ -2,7 +2,7 @@
 An End-to-End Excel Data Analytics Project | PUST Data Science Club :- Excel Unlocked.
 
 
-## Project Overview 📌 
+# Project Overview 📌 
 
 This project focuses on analyzing the financial-year sales performance of DeshiCart BD, a fictional online marketplace operating across all eight divisions of Bangladesh.
 
@@ -10,7 +10,7 @@ The objective is to transform raw, uncleaned sales data into a reliable analytic
 
 This project is based on the official PUST Data Science Club:- Excel Dashboard Competition Rulebook, part of the Excel Unlocked training series.
 
-## Business Problem 🎯 
+# Business Problem 🎯 
 
 DeshiCart BD has experienced revenue growth, but its profitability remains relatively flat. Management needs a clearer understanding of which products, categories, customers, and regions generate profit and which may be reducing overall business performance.
 
@@ -23,3 +23,31 @@ The dashboard is designed to answer key business questions:
 * Which regions are performing well or underperforming?
 * How effective are discounts, and at what discount levels does profitability deteriorate?
 * What actions should management prioritize to improve business performance?
+
+# Tools & Technologies 🛠️ 
+* Microsoft Excel = Data analysis and dashboard development
+* Excel formulas = Revenue, cost, profit, KPI calculations, and business metrics
+* PivotTables & PivotCharts = Aggregation and performance analysis
+* Excel slicers and filters = Interactive dashboard exploration
+
+# Project Workflow 🔄 
+
+The project follows a structured data analytics process:
+
+### Raw Data → Requirments → Data Cleaning → Data Transformation → Business Analysis → KPI Calculation → Dashboard Development → Business Insights
+
+# 1. Data Cleaning & Preparation
+
+The raw dataset is prepared according to the project rulebook.
+
+Key activities include:
+
+ * Removing completely blank rows and duplicate records.
+ * Excluding records with zero or negative quantities.
+ * Standardizing category, division, subcategory, customer type, and order-status values.
+ * Handling missing city and discount values according to the specified rules.
+ * Recovering missing customer names and invalid unit costs using matching identifiers.
+ * Converting dates and numeric fields into valid Excel data types.
+ * Preserving repairable records rather than deleting valid transactions.
+
+ 
