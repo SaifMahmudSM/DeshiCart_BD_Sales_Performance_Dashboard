@@ -80,21 +80,21 @@ The analysis covers six major areas:
 The dashboard includes the eight KPIs specified in the official competition rulebook.
 
 ### KPI                         Definition
- Total Sales                   Sum of Revenue
+ Total Sales =                   Sum of Revenue
  
- Total Profit                  Sum of Profit
+ Total Profit =                 Sum of Profit
  
- Profit Margin %               Total Profit ÷ Total Sales
+ Profit Margin % =               Total Profit ÷ Total Sales
  
- Total Orders                  Number of rows in Clean_Data
+ Total Orders =             Number of rows in Clean_Data
  
- Total Quantity                Sum of Quantity
+ Total Quantity =                Sum of Quantity
  
- Average Order Value           Total Sales ÷ Total Orders
+ Average Order Value =           Total Sales ÷ Total Orders
  
- Average Discount              Average of the Discount column
+ Average Discount =              Average of the Discount column
  
- Total Customers               Distinct count of CustomerID
+ Total Customers =            Distinct count of CustomerID
 
 *The dashboard's KPI calculations follow the official definitions to maintain consistency with the supporting analysis.*
 
@@ -129,20 +129,17 @@ The final analysis will document 5–8 numerical, actionable business insights s
 # Repository Structure
 
 DeshiCart-BD-Sales-Dashboard/
-   │
-   ├── README.md
+├── README.md
+   
+├── Data/
+      └── Dashboard_Competition_Saif_Mahmud_Submission_File.xlsx
+      └── Dashboard_Competition_Saif_Mahmud.xlsx 
 
-
-   ├── Data/
-        └── Dashboard_Competition_Saif_Mahmud_Submission_File.xlsx
-        └── Dashboard_Competition_Saif_Mahmud.xlsx
-
-   ├── Images/
-   │   ├── Excel_Dashboard.png
-   │   └── Power_BI_Dashboard.png
-
-   ├── Task/
-   │   └── Project_NoteBook.pdf
+├── Images/
+       ├── Excel_Dashboard.png
+       └── Power_BI_Dashboard.png
+├── Task/
+      └── Project_NoteBook.pdf
 
 
 This is a suggested repository structure. Adjust the folders and filenames to match the files actually included. Share the rulebook, dataset, and completed workbook only where you have permission to do so.
